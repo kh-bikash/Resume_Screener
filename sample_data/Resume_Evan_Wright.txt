@@ -1,0 +1,25 @@
+Evan Wright
+Email: evan.w@data.com
+Location: Chicago, IL
+
+Summary:
+Recent graduate eager to start a career in data. Completed multiple academic projects involving data analysis and visualization.
+
+Experience:
+Data Science Intern | FinTech Solutions | Summer 2023
+- Cleaned a messy dataset of 10,000 transactions using Python (Pandas).
+- Created preliminary visualizations using Matplotlib to show spending trends.
+- Presented findings to the data science team.
+
+Academic Projects:
+- "Predicting Housing Prices": Used Python and basic linear regression to predict prices based on a Kaggle dataset.
+- "Retail Sales Dashboard": Built a basic dashboard in Tableau using sample superstore data.
+
+Education:
+B.S. in Mathematics | University of Illinois | 2024 (Expected)
+
+Skills:
+- Python (Pandas, NumPy)
+- SQL (Academic experience)
+- Tableau (Beginner)
+- Statistics and Probability

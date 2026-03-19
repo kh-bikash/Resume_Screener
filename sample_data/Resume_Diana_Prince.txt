@@ -1,0 +1,25 @@
+Diana Prince
+Email: d.prince@analytics.com
+Location: Seattle, WA
+
+Summary:
+Senior Data Professional with 5 years of experience in data engineering and analytics. Specializes in building robust data pipelines and driving business strategy through data.
+
+Experience:
+Senior Data Analyst | TechGiant | 2020 - Present
+- Architected data models in BigQuery to support enterprise-wide reporting.
+- Built complex Power BI dashboards utilized by C-level executives for quarterly planning.
+- Wrote extensive Python scripts for data cleaning, transformation, and predictive modeling (using Scikit-Learn).
+- Mentored junior analysts and established SQL best practices.
+
+Data Analyst | StartupX | 2018 - 2020
+- Extracted and cleaned data using SQL and Python.
+- Monitored KPIs and identified trends resulting in a 15% reduction in customer churn.
+
+Education:
+M.S. in Computer Science | University of Washington | 2018
+
+Skills:
+- SQL, Python, Java
+- Power BI, Looker
+- Google Cloud Platform (GCP), Airflow, Machine Learning

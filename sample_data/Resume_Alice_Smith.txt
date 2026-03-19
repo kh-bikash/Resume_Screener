@@ -1,0 +1,21 @@
+Alice Smith
+Email: alice.smith@example.com
+Location: New York, NY
+
+Summary:
+Results-driven Data Analyst with 3 years of experience transforming raw data into actionable insights. Adept at building scalable dashboards and writing complex SQL queries.
+
+Experience:
+Data Analyst | DataCorp Inc. | 2021 - Present
+- Developed and maintained 15+ interactive Tableau dashboards for the marketing and sales teams, improving reporting efficiency by 40%.
+- Wrote optimized SQL queries on Snowflake to extract data from databases containing over 50M records.
+- Utilized Python (Pandas, Matplotlib) to automate monthly performance reports, saving 10 hours of manual work per week.
+- Collaborated with product managers to define tracking metrics for new feature launches.
+
+Education:
+B.S. in Statistics | University of Michigan | 2017 - 2021
+
+Skills:
+- Languages: SQL, Python, R
+- Tools: Tableau, Excel, Git, Snowflake
+- Cloud: AWS (S3, EC2)

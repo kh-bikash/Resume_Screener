@@ -1,0 +1,21 @@
+Bob Jones
+Email: bjones@email.com
+Location: Austin, TX
+
+Summary:
+Business Intelligence professional with a knack for reporting and Excel. Passionate about helping companies understand their data.
+
+Experience:
+Reporting Analyst | Retail Solutions | 2022 - Present
+- Created weekly sales reports using advanced Microsoft Excel (VLOOKUP, Pivot Tables, Macros).
+- Assisted in the migration of data to a new CRM system.
+- Gathered requirements from stakeholders for custom reporting needs.
+- Used Google Data Studio to create basic visualizations for website traffic.
+
+Education:
+B.A. in Business Administration | Texas A&M | 2018 - 2022
+
+Skills:
+- Tools: Microsoft Excel, Google Data Studio, Word, PowerPoint
+- Basic knowledge of SQL (SELECT statements, basic JOINs)
+- Strong communication and presentation skills

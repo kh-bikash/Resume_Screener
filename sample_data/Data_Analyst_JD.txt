@@ -1,0 +1,19 @@
+**Job Title**: Data Analyst
+**Company**: TechNova Solutions
+**Location**: Remote
+
+**About the Role**:
+We are seeking a proactive and detail-oriented Data Analyst to join our team. The ideal candidate will have a strong foundation in SQL, Python, and data visualization tools like Tableau or Power BI. You will be responsible for creating dashboards, running complex queries to extract insights, and collaborating with cross-functional teams to drive data-informed decisions.
+
+**Requirements**:
+- Bachelor's degree in Computer Science, Statistics, Mathematics, or related field.
+- 2+ years of experience in data analysis.
+- High proficiency in SQL for data extraction and manipulation.
+- Experience with Python (Pandas, NumPy) for data processing.
+- Experience with Tableau or PowerBI for creating interactive dashboards.
+- Strong analytical and problem-solving skills.
+- Excellent communication skills to present findings to stakeholders.
+
+**Nice to have**:
+- Familiarity with basic machine learning concepts.
+- Experience with cloud platforms (AWS/GCP).
