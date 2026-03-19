@@ -51,6 +51,7 @@ This application is designed to be easily deployable on Streamlit Community Clou
 1. Push this code to GitHub.
 2. Connect the repository at [share.streamlit.io](https://share.streamlit.io/)
 3. Click "Deploy" to generate a public link.
+4. Mine Live Link is here : https://ai-resume-screeners.streamlit.app/
 
 ---
 *Built for the AI Automation Intern Assessment.*
